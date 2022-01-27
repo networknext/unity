@@ -1,2 +1,8 @@
-*.DS_Store
+# Unity
 *.meta
+
+# Misc
+*.DS_Store
+
+# Directories we don't ever want to commit
+docs/build
